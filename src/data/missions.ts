@@ -1,14 +1,19 @@
 export type MissionStatus = "CLOSED" | "ACTIVE" | "COMPROMISED";
 
 export interface Mission {
+  slug: string;
+  episode: string;
   codename: string;
   date: string;
   status: MissionStatus;
   location: string;
+  agents: string;
   summary: string;
-  agents?: string;
-  episode?: string;
 }
+
+export const getMission = (slug: string) =>
+  missions.find((m) => m.slug === slug);
+
 
 export const campaign = {
   title: "Operation: Fallen Archon",
