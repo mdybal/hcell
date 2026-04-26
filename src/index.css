@@ -8,35 +8,45 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    /* Delta Green Dossier — manila paper on dark desk */
+    --desk: 45 8% 6%;
+    --manila: 45 28% 82%;
+    --manila-dark: 42 22% 74%;
+    --ink: 48 8% 10%;
+    --ink-faded: 45 6% 28%;
+    --stamp: 0 65% 38%;
+    --stamp-fresh: 0 78% 35%;
+    --redact: 0 0% 4%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --background: var(--desk);
+    --foreground: var(--manila);
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --card: var(--manila);
+    --card-foreground: var(--ink);
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --popover: var(--manila);
+    --popover-foreground: var(--ink);
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --primary: var(--ink);
+    --primary-foreground: var(--manila);
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --secondary: 42 22% 74%;
+    --secondary-foreground: var(--ink);
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --muted: 42 18% 70%;
+    --muted-foreground: var(--ink-faded);
 
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
+    --accent: var(--stamp);
+    --accent-foreground: var(--manila);
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --destructive: var(--stamp-fresh);
+    --destructive-foreground: var(--manila);
 
-    --radius: 0.5rem;
+    --border: var(--ink);
+    --input: var(--ink);
+    --ring: var(--stamp);
+
+    --radius: 0rem;
 
     --sidebar-background: 0 0% 98%;
 
@@ -101,5 +111,26 @@ All colors MUST be HSL.
 
   body {
     @apply bg-background text-foreground;
+    font-family: 'Cutive Mono', ui-monospace, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@layer utilities {
+  .font-stamp {
+    font-family: 'Space Mono', ui-monospace, monospace;
+  }
+  .font-typewriter {
+    font-family: 'Cutive Mono', ui-monospace, monospace;
+  }
+  .redact {
+    @apply bg-redact text-transparent select-none inline-block tracking-tighter;
+  }
+  .paper-shadow {
+    box-shadow: 0 30px 60px -15px hsl(0 0% 0% / 0.8),
+      inset 0 0 100px hsl(var(--manila-dark) / 0.5);
+  }
+  .punch-hole {
+    box-shadow: inset 2px 2px 4px hsl(0 0% 0% / 0.8);
   }
 }
