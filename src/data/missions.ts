@@ -20,7 +20,7 @@ export const campaign = {
   subtitle: "After-Action Compilation — Cell H",
   fileRef: "MJ-884/OP-FA",
   formRef: "FORM 104-A (REV 1993)",
-  dateExtracted: "2026-10-14",
+  dateExtracted: new Date().toISOString().split("T")[0],
   leadAgent: "Henderson",
   area: "UnitedA",
   casualtyRate: "0.0%",
