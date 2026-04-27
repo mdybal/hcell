@@ -26,7 +26,7 @@ export const ClassificationStamp = ({
   return (
     <span
       className={cn(
-        "font-stamp font-bold uppercase inline-block mix-blend-multiply",
+        "font-stamp font-bold uppercase inline-block mix-blend-multiply text-center text-balance w-max max-w-[19ch]",
         sizeClasses[size],
         colorClasses,
         className,

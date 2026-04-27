@@ -16,6 +16,17 @@ const renderRedacted = (text: string) =>
     ),
   );
 
+const renderHtmlWithRedactions = (text: string) =>
+  text.split(/(\[REDACTED\]|\[COORDINATES REDACTED\])/g).map((part, i) =>
+    part.startsWith("[") ? (
+      <span key={i} className="redact">
+        ████████████
+      </span>
+    ) : (
+      <span key={i} dangerouslySetInnerHTML={{ __html: part }} />
+    ),
+  );
+
 const MissionDetail = () => {
   const { slug } = useParams();
   const mission = slug ? getMission(slug) : undefined;
@@ -113,9 +124,9 @@ const MissionDetail = () => {
         <h2 className="font-stamp text-xs uppercase tracking-widest text-ink-faded mb-3">
           [I] After-Action Summary
         </h2>
-        <p className="indent-8 leading-relaxed">
-          {renderRedacted(mission.summary)}
-        </p>
+        <div className="leading-relaxed [&_p]:indent-8 [&_h1]:font-stamp [&_h1]:text-2xl [&_h1]:mb-4 [&_h2]:font-stamp [&_h2]:text-xl [&_h2]:mt-6 [&_h2]:mb-2">
+          {renderHtmlWithRedactions(mission.summary)}
+        </div>
       </section>
 
       <section className="mb-12 max-w-[68ch]">
