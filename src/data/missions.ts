@@ -90,4 +90,33 @@ export const missions: Mission[] = [
 <h2>Powrót do Przesłuchania</h2>
 <p>Po zakończeniu opowieści o misji "Tiger", agenci Komórki H prowadzili bardziej szczegółówe przesłuchania. Pytali o los Nan Gwin (przypuszczalnie zginęła w nalocie) i o zachowanie Mony. Jenny wyjaśniła, że język Aklo ma potężny wpływ na umysł, zmieniając myślenie. Sugerowała, że Mona mogła poznać Aklo niedługo przed misją, dlatego tak gwałtownie zareagowała na świątynię. Jenny uważała, że jest bardziej odporna na ten język, choć nie znała powodu tej odporności. Ostatecznie, agenci zalecili Hendersonowi usunięcie wszystkich zaangażowanych z Delty Green, rekomendując, że tylko Jenny może pozostać, ale jako pracownik biurowy.</p>`,
   },
+  {
+    slug: "the-number",
+    codename: "OP: Lasques Equotation",
+    date: "2026-05-15",
+    status: "CLOSED",
+    location: "Alliance, New Jersey",
+    agents: "HARRY, HERC, PARKER, YOKO",
+    episode: "Session 03",
+    summary: `<h2> Matematyczny Mord </h2><p>Agenci Delta Green – Harry (Herc), Yoko (Sara), agentka Parker (Sara Jessica Parker) oraz Jake (Harry) – od dłuższego czasu nie otrzymywali żadnych nowych zadań. Wszyscy zastanawiali się, czy Delta Green o nich zapomniała, czy też zostali odsunięci na bok po poprzednich akcjach. 12 października, około godziny 16:00 każdy z nich odebrał telefon od agenta Hendersona. Henderson rozpoczął rozmowę pytając Herca o zaawansowaną matematykę, a jego odpowiedź – "Od 1 do 10 to mocne dwa" – zadowoliła go, stwierdzając, że właśnie takich osób szukają [X]. Podobne pytania dotyczące fizyki i matematyki usłyszeli Yoko i agentka Parker. Ich bilety czekały na lotnisku, kierunek: New Jersey.</p>
+</p>W hotelowej sali konferencyjnej w New Jersey czekał na nich wiecznie zmęczony, łysiejący Henderson. Misja była pilna: Michael Way zamordował siedmiu członków rodziny Ridgewayów, a następnie popełnił samobójstwo, wcześniej zapisując "niebezpieczną liczbę" sprayem na ulicy. Ich zadaniem było:<ul>
+<li>Pozbyć się liczby ze wszystkich materiałów i miejsc</li>
+<li>Sfabrykować historię, np. romantyczny związek Way'a z Diną Ridgeway, podkładając dowody</li>
+<li>Zniszczyć notatki Way'a dotyczące liczby</li>
+<li>Zlokalizować wszystkich, którzy mieli kontakt z liczbą i posiadali matematyczne wykształcenie</li>/ul>
+Thomas Blanet, trooper ze stanowej policji, został wskazany jako potencjalny kontakt.</p>
+<h2> Dom Ridgeway'ów </h2>
+<p>Na miejscu zbrodni, w Alliance w New Jersey, agenci musieli przebijać się przez dziennikarzy próbujacych dostać się na miejsce zbrodni. Przy blokadzie czekali na nich funkcjonariusze, w tym starszy agent specjalny Canor (czarny, wysoki, w garniturze i aviatorach) oraz młody agent Gant. Herc, korzystając z fałszywej tożsamości zorganizowanej przez Deltę, przedstawił się jako Agent Parrot z FBI i przejął śledztwo.</p>
+<p>
+Przeszukując dom Ridgewayów, agenci odkryli kuchnię umazaną krwią, ślady strzałów z shotguna i zegar w piekarniku zatrzymany na 02:28:13. Na ulicy, gdzie Way zabił ostatnią ofiarę i popełnił samobójstwo, znajdował się długi, wysprejowany numer. Yoko natychmiast zabezpieczyła karty pamięci techników, aby zapobiec rozpowszechnieniu liczby. Agenci dowiedzieli się również, że jutro ma przybyć specjalistka ds. matematyki, doktor Comoc, co agenci uznali za zagrożenie. Harry (Jake) przekonał doktor, że jej pomoc nie będzie już potrzebna, a powodem jej odwołania są "cięcia budżetowe" i uznanie numerologii co pasuje "między książki z magią i astrologią".</p>
+<p>
+Agenci dokonali zmiany części liczb na asfalcie sprayem, aby stworzyć fałszywy trop – z trójek zrobili ósemki. Dodatkowo, podczas przeszukania sypialni państwa Ridgeway, Herc ukradł bieliznę Diny Ridgeway. Na parkingu pobliskiego motelu odnaleźli równiez porzucone auto, którym Way dostał się w okolice domu Ridgeway'ów. Okazało się, samochód nie należał do niego, lecz do Johna Bentona, który zgłosił kradzież kilka godzin wcześniej. Nagranie z motelu pokazało, że Way, wyglądający jak automat, zaparkował i od razu poszedł prosto do domu Ridgewayów. </p>
+<h2> Nowy Jork </h2><p>
+Następnie agenci udali się do akademika im. Johna J. Halla na uniwersytecie w Nowym Jorku, gdzie mieszkał Way. Budynek miał 30 pięter. Pokój Way'a był pełen matematycznych notatek i książek. Pod futonem znaleźli kserokopię książki "Księga wielu cudów" Flacjusa Klaudana, z XV wieku, z marginesami zapisanymi ręcznie. Książka zawierała równanie Lasquesa, a co ważniejsze, na marginesie Herc odnalazł swój własny numer ubezpieczenia społecznego, bieżącą datę i godzinę oraz koordynaty swojego domu, z napisem "Hello"! To odkrycie kosztowało Herca nieco poczytalności. Inne notatki Way'a zawierały liczby, które okazały się koordynatami 24 komisariatu policji w Nowym Jorku na "dzisiaj". </p>
+<p>W komputerze Way'a agenci znaleźli emaila do grupy dyskusyjnej matematyków (Matgeeks) z tytułem "Rozwiązałem równanie Lasquesa", wysłanego wczesnym rankiem. Agentka Parker natychmiast skontaktowała się z Hendersonem, by zablokować listę i ustalić, kto otrzymał wiadomość. Zidentyfikowano trzy osoby poza Way'em, które pobrały maila: Kelly Kaselman (Montana), Loren Badech (Wiesbaden, Niemcy) i Julius Sword (Modesty). Henderson został poinformowany o globalnym zagrożeniu.</p>
+<h2> Rozwiązanie równania</h2><p>
+Dochodzenie na 24 komisariacie ujawniło, że broń użyta w zbrodni, shotgun, została skradziona z ich zbrojowni dokładnie o 09:21 rano. Broń była wystawiona na zewnątrz z powodu "awarii hydraulicznej" i niepilnowana. Nagranie z monitoringu pokazało, jak Way bierze broń, chowa ją do torby i odchodzi dokładnie w momencie gdy pilnujący jej policjant na kilkanaście sekund opuścił swoje stanowisko.</p>
+<p>Agenci sfabrykowali dowody: podrzucili list miłosny od Diny Ridgeway do Michaela Way'a, jej bieliznę oraz jej włosy na łóżko mordercy w akademiku. Michael Way został "romantycznie" połączony z Diną.</p>
+<p>Misja zakończyła się sukcesem. Loren Badech w Wiesbaden próbował rozwinąć transparent z numerem na wieży kościoła, lecz "nieszczęśliwie" spadł i zginął na miejscu. Świat został ponownie uratowany przed nadnaturalnym zagrożeniem. Cała akcja kosztowała większość agentów tylko jeden punkt poczytalności, ale Herc, odkrywając matematykę, stracił aż cztery.</p>`,
+  },
 ];
