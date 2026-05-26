@@ -124,7 +124,7 @@ const MissionDetail = () => {
         <h2 className="font-stamp text-xs uppercase tracking-widest text-ink-faded mb-3">
           [I] After-Action Summary
         </h2>
-        <div className="leading-relaxed [&_p]:indent-8 [&_h1]:font-stamp [&_h1]:text-2xl [&_h1]:mb-4 [&_h2]:font-stamp [&_h2]:text-xl [&_h2]:mt-6 [&_h2]:mb-2">
+        <div className="leading-relaxed [&_p]:indent-8 [&_h1]:font-stamp [&_h1]:text-2xl [&_h1]:mb-4 [&_h2]:font-stamp [&_h2]:text-xl [&_h2]:mt-6 [&_h2]:mb-2 [&_ul]:list-disc [&_ul]:pl-6 [&_li]:my-1">
           {renderHtmlWithRedactions(mission.summary)}
         </div>
       </section>

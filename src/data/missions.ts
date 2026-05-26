@@ -98,13 +98,14 @@ export const missions: Mission[] = [
     location: "Alliance, New Jersey",
     agents: "HARRY, HERC, PARKER, YOKO",
     episode: "Session 03",
-    summary: `<h2> Matematyczny Mord </h2><p>Agenci Delta Green – Harry (Herc), Yoko (Sara), agentka Parker (Sara Jessica Parker) oraz Jake (Harry) – od dłuższego czasu nie otrzymywali żadnych nowych zadań. Wszyscy zastanawiali się, czy Delta Green o nich zapomniała, czy też zostali odsunięci na bok po poprzednich akcjach. 12 października, około godziny 16:00 każdy z nich odebrał telefon od agenta Hendersona. Henderson rozpoczął rozmowę pytając Herca o zaawansowaną matematykę, a jego odpowiedź – "Od 1 do 10 to mocne dwa" – zadowoliła go, stwierdzając, że właśnie takich osób szukają [X]. Podobne pytania dotyczące fizyki i matematyki usłyszeli Yoko i agentka Parker. Ich bilety czekały na lotnisku, kierunek: New Jersey.</p>
-</p>W hotelowej sali konferencyjnej w New Jersey czekał na nich wiecznie zmęczony, łysiejący Henderson. Misja była pilna: Michael Way zamordował siedmiu członków rodziny Ridgewayów, a następnie popełnił samobójstwo, wcześniej zapisując "niebezpieczną liczbę" sprayem na ulicy. Ich zadaniem było:<ul>
+    summary: `<h2> Matematyczny Mord </h2><p>Agenci Delta Green – Harry (Herc), Yoko (Sara), agentka Parker (Sara Jessica Parker) oraz Jake (Harry) – od dłuższego czasu nie otrzymywali żadnych nowych zadań. Wszyscy zastanawiali się, czy Delta Green o nich zapomniała, czy też zostali odsunięci na bok po poprzednich akcjach. 12 października, około godziny 16:00 każdy z nich odebrał telefon od agenta Hendersona. Henderson rozpoczął rozmowę pytając Herca o zaawansowaną matematykę, a jego odpowiedź – "Od 1 do 10 to mocne dwa" – zadowoliła go, stwierdzając, że właśnie takich osób szukają. Podobne pytania dotyczące fizyki i matematyki usłyszeli Yoko i agentka Parker. Ich bilety czekały na lotnisku, kierunek: New Jersey.</p>
+</p>W hotelowej sali konferencyjnej w New Jersey czekał na nich wiecznie zmęczony, łysiejący Henderson. Misja była pilna: Michael Way zamordował siedmiu członków rodziny Ridgewayów, a następnie popełnił samobójstwo, wcześniej zapisując "niebezpieczną liczbę" sprayem na ulicy. Ich zadaniem było:</p>
+<ul>
 <li>Pozbyć się liczby ze wszystkich materiałów i miejsc</li>
 <li>Sfabrykować historię, np. romantyczny związek Way'a z Diną Ridgeway, podkładając dowody</li>
 <li>Zniszczyć notatki Way'a dotyczące liczby</li>
-<li>Zlokalizować wszystkich, którzy mieli kontakt z liczbą i posiadali matematyczne wykształcenie</li>/ul>
-Thomas Blanet, trooper ze stanowej policji, został wskazany jako potencjalny kontakt.</p>
+<li>Zlokalizować wszystkich, którzy mieli kontakt z liczbą i posiadali matematyczne wykształcenie</li></ul>
+<p>Thomas Blanet, trooper ze stanowej policji, został wskazany jako potencjalny kontakt.</p>
 <h2> Dom Ridgeway'ów </h2>
 <p>Na miejscu zbrodni, w Alliance w New Jersey, agenci musieli przebijać się przez dziennikarzy próbujacych dostać się na miejsce zbrodni. Przy blokadzie czekali na nich funkcjonariusze, w tym starszy agent specjalny Canor (czarny, wysoki, w garniturze i aviatorach) oraz młody agent Gant. Herc, korzystając z fałszywej tożsamości zorganizowanej przez Deltę, przedstawił się jako Agent Parrot z FBI i przejął śledztwo.</p>
 <p>
