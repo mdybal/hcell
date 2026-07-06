@@ -125,12 +125,12 @@ Dochodzenie na 24 komisariacie ujawniło, że broń użyta w zbrodni, shotgun, z
     codename: "OP: Stonehenge",
     date: "2026-06-26",
     status: "CLOSED",
-    location: "Stone Mountian, Georgia",
+    location: "Stone Mountain, Georgia",
     agents: "HARRY, HERC, PARKER, YOKO",
     episode: "Session 04",
     summary: `<h2>Powołanie i briefing misji</h2>
 <p>Agenci zostali wezwani do Atlanty, w stanie Georgia, po standardowej procedurze: telefon informujący o zawieszeniu pracy i gotowych biletach. W hotelowej sali konferencyjnej czekał na nich Agent Henderson, który, jak zauważają, z każdym spotkaniem staje się coraz bardziej łysy i przytłoczony swoją rolą. Tym razem przy stole siedział również Joe Dawant, były policjant pracujący obecnie dla Centrum Zaginionych Dzieci, organizacji podobnej do Itaki.</p>
-<p>Joe Dawant przedstawił agentom sprawę, sięgającą 1979 rokuy. Okazało się, że w dzielnicy Druid Hills, zamieszkałej przez bogatych białych ludzi, istnieje wzorzec zaginięć. Od około 70 lat, w momencie gdy drugie dziecko, którejś z 13 rodzin zamieszkujacych dzielnicę, osiąga wiek 12-14 lat, rodzice wypisują je ze szkoły, a następnie nikt o nich więcej nie słyszy. Najnowszym przypadkiem jest Henry Venable, który mieszka w rezydencji Stonehenge. Jego rodzice zginęli w wypadku samochodowym trzy miesiące wcześniej, a Henry został wypisany ze szkoły miesiąc temu przez swoją 19-letnią siostrę Abigail.</p>
+<p>Joe Dawant przedstawił agentom sprawę, sięgającą 1979 roku. Okazało się, że w dzielnicy Druid Hills, zamieszkałej przez bogatych białych ludzi, istnieje wzorzec zaginięć. Od około 70 lat, w momencie gdy drugie dziecko, którejś z 13 rodzin zamieszkujacych dzielnicę, osiąga wiek 12-14 lat, rodzice wypisują je ze szkoły, a następnie nikt o nich więcej nie słyszy. Najnowszym przypadkiem jest Henry Venable, który mieszka w rezydencji Stonehenge. Jego rodzice zginęli w wypadku samochodowym trzy miesiące wcześniej, a Henry został wypisany ze szkoły miesiąc temu przez swoją 19-letnią siostrę Abigail.</p>
 
 <h2>Plan Działania</h2>
 <p> Agent Henderson prosi agentów o dowiedzenie się, co dzieje się z dziećmi, przestrzegając przed "mąceniem wody" z powodu wpływowości mieszkańców. Agenci decydują się na cywilną infiltrację, choć w odwodzie trzymają fałszywe tożsamości agentów FBI.</p>
