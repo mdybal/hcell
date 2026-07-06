@@ -92,7 +92,7 @@ export const missions: Mission[] = [
   },
   {
     slug: "the-number",
-    codename: "OP: Lasques Equotation",
+    codename: "OP: Lasques Equation",
     date: "2026-05-15",
     status: "CLOSED",
     location: "Alliance, New Jersey",
