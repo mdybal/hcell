@@ -120,4 +120,40 @@ Dochodzenie na 24 komisariacie ujawniło, że broń użyta w zbrodni, shotgun, z
 <p>Agenci sfabrykowali dowody: podrzucili list miłosny od Diny Ridgeway do Michaela Way'a, jej bieliznę oraz jej włosy na łóżko mordercy w akademiku. Michael Way został "romantycznie" połączony z Diną.</p>
 <p>Misja zakończyła się sukcesem. Loren Badech w Wiesbaden próbował rozwinąć transparent z numerem na wieży kościoła, lecz "nieszczęśliwie" spadł i zginął na miejscu. Świat został ponownie uratowany przed nadnaturalnym zagrożeniem. Cała akcja kosztowała większość agentów tylko jeden punkt poczytalności, ale Herc, odkrywając matematykę, stracił aż cztery.</p>`,
   },
+  {
+    slug: "the-stonehenge",
+    codename: "OP: Stonehenge",
+    date: "2026-06-26",
+    status: "CLOSED",
+    location: "Stone Mountian, Georgia",
+    agents: "HARRY, HERC, PARKER, YOKO",
+    episode: "Session 04",
+    summary: `<h2>Powołanie i briefing misji</h2>
+<p>Agenci zostali wezwani do Atlanty, w stanie Georgia, po standardowej procedurze: telefon informujący o zawieszeniu pracy i gotowych biletach. W hotelowej sali konferencyjnej czekał na nich Agent Henderson, który, jak zauważają, z każdym spotkaniem staje się coraz bardziej łysy i przytłoczony swoją rolą. Tym razem przy stole siedział również Joe Dawant, były policjant pracujący obecnie dla Centrum Zaginionych Dzieci, organizacji podobnej do Itaki.</p>
+<p>Joe Dawant przedstawił agentom sprawę, sięgającą 1979 rokuy. Okazało się, że w dzielnicy Druid Hills, zamieszkałej przez bogatych białych ludzi, istnieje wzorzec zaginięć. Od około 70 lat, w momencie gdy drugie dziecko, którejś z 13 rodzin zamieszkujacych dzielnicę, osiąga wiek 12-14 lat, rodzice wypisują je ze szkoły, a następnie nikt o nich więcej nie słyszy. Najnowszym przypadkiem jest Henry Venable, który mieszka w rezydencji Stonehenge. Jego rodzice zginęli w wypadku samochodowym trzy miesiące wcześniej, a Henry został wypisany ze szkoły miesiąc temu przez swoją 19-letnią siostrę Abigail.</p>
+
+<h2>Plan Działania</h2>
+<p> Agent Henderson prosi agentów o dowiedzenie się, co dzieje się z dziećmi, przestrzegając przed "mąceniem wody" z powodu wpływowości mieszkańców. Agenci decydują się na cywilną infiltrację, choć w odwodzie trzymają fałszywe tożsamości agentów FBI.</p>
+<p>Ostateczny plan infiltracji posiadłości Venable obejmował:<ul>
+<li>Wytworzenie awarii prądu w całej ulicy, aby pod pretekstem naprawy uzyskać dostęp do domów.
+<li>Agentka Yoko udawać będzieprzedstawiciela Ministerstwa Edukacji, prowadząc pogadanki na temat narkotyków w szkołach w Druid Hills, by zidentyfikować klasy i przeglądać szkolne e-booki w poszukiwaniu zdjęć zaginionych dzieci. Jednocześnie Herc zdobędzie informacje z urzedu miasta o rodzinach zamieszkujących Druid Hills.
+<li>Jake i Sara będą odgrywać rolę elektryków naprawiających usterkę.</ul></p>
+
+<h2>Infiltracja Posiadłości Stonehenge</h2>
+<p>Agenci podjeżdżają pod dwupiętrowy granitowy kolos o nazwie Stonehenge. Abigail, która akurat miała przyjęcie, niechętnie wpuszcza ich do środka. W domu zauważają dobrze ubranych gości i kelnerów. Ich uwagę przyciąga mężczyzna po pięćdziesiątce, siwy, z długimi włosami, ubrany w czarny garnitur, który ich obserwuje – nie służący, nie ochroniarz, po prostu "gość". Agent Jake próbuje odciągnąć uwagę tego mężczyzny, podczas gdy agentka Parker rozmieszcza podsłuchy i kamerki.</p>
+<p>Podczas przeszukiwania:<ul>
+<li>W pokoju Samuela (starego służącego) Jake znajduje futon, wysuniętą kratkę wentylacyjną, a w niej shoebox z cynowym żołnierzem, napisem "to jest mój dom" i starym kluczem.
+<li>Pokój Abigail jest nieużywany i czysty.
+<li>Pokój Henry'ego jest w nieładzie, z telewizorem, Xboxem i talerzem z kawałkami mięsa. Agentka umieszcza tam kamerę.
+<li>W głównej sypialni, w biurku, agentka znajduje laptopa (zabezpieczonego hasłem) i drugi stary klucz. Obydwa klucze wydają się pasować do windy.</ul></p>
+<p>Agenci wracają do motelu i monitorują posiadłość Venable przez kamery. Koło 21:00 coś dziwnego porusza się w pokoju Henry'ego. Jest to istota z długimi ramionami, wydłużoną psią czaszką i garbiąca się, która gra na Xboxie. Widok ten wywołuje szok u agentki Parker. Wygląda na to, że to zaginiony Henry! Nad ranem stwór znika w windzie razem z dziwnym mężczyzną, kórego widzieli wcześniej - Jeremiaszem.</p>
+
+<h2>Dalsze śledztwo i cmentarz </h2> 
+<p>Agenci rozważają pobliski Stone Mountain Park (byłą kopalnię) jako potencjalne miejsce kultu. Jednak najpierw odwiedzają cmentarz w Druid Hills, wybudowany w tym samym roku co reszta dzielnicy przez braci Venable. Znajdują kryptę rodu Venable jednak ta jest pusta. Stwierdzają, że "tych co oficjalnie umarli", nie ma. Samuel i William, założyciele rodu, mieli być projektantami cmentarza.</p>
+<p>Agenci odwiedzają również miejsce wypadku rodziców Henry'ego i Abigail. Dowiadują się, że samochód uderzył w drzewo, a na grillu i pod oponami znaleziono mnóstwo ciał cykad.</p>
+<h2>Prawda o rodzie Venable</h2> 
+<p>Agenci wracają do Abigail w Stonehenge tym razem pod przykrywką agentów FBI i przystępują do przesłuchania Abigail i Samuela. Samuel okazuje się być tym, który napisał "to jest mój dom" - sam Samuel Venable, wciąż żywy, choć nie spełna rozumu. Abigail zdradza, że domyśla się, że agenci należą do Delta Green i proponuje układ. Okazuje się, że rodzina Venable, a także inne rodziny w Druid Hills, są częścią większej kolonii ghouli. Dzieci te nie giną, lecz przechodzą transformację. Jendocześnie założyciele Druid Hills od pokoleń przeprowadzają mroczny rytuał i "wtłaczają" swoją jaźń do kolejnych pokoleń dzieci. Kolonia liczy około 60 ghouli, powiększając się z pokolenia na pokolenie.</p>
+<p>Abigail prosi Delta Green o pomoc w przerwaniu rytuału, który William planuje przeprowadzić na wzgórzu o północy. Agent Henderson potwierdza istnienie umowy między Delta Green a ghoulami w Nowym Jorku i Nowym Orleanie: "nie wchodzimy sobie w drogę tak długo, jak nie mordują ludzi". Ponieważ ghoule z Druid Hills nie mordują ludzi, Henderson pozostawia decyzję agentom. Informuje również, że w razie ataku ghouli, agenci powinni wysadzić sobie głowy, aby ghoule nie przejęły ich wspomnień poprzez zjedzenie mózgu.</p>
+<p>Agenci decydują się nie interweniować w rytuał, uznając, że nie jest to ich sprawa. Zamiast tego, wracają do Abigail i informują ją, że Delta Green nie będzie jej pomagać w przerwaniu rytuału, ale pozostawi kolonię w spokoju, jeśli ta będzie przestrzegać zasad. Abigail, choć zła i smutna, akceptuje to. Agenci opuszczają Stonehenge, z traumą i świadomością istnienia podziemnego świata ghouli, z którymi Delta Green zawarła pakt.</p>`,
+  },
 ];
