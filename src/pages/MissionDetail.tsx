@@ -62,6 +62,7 @@ const MissionDetail = () => {
   const prev = missions[idx - 1];
   const next = missions[idx + 1];
   const isCompromised = mission.status === "COMPROMISED";
+  const isDeferred = mission.status === "DEFERRED";
 
   return (
     <DossierFrame>
@@ -82,6 +83,13 @@ const MissionDetail = () => {
           <div className="absolute -right-2 top-2 rotate-[14deg] z-10">
             <ClassificationStamp size="md" className="opacity-90">
               Compromised
+            </ClassificationStamp>
+          </div>
+        )}
+        {isDeferred && (
+          <div className="absolute -right-2 top-2 rotate-[14deg] z-10">
+            <ClassificationStamp size="md" variant="defer" className="opacity-90">
+              Deferred
             </ClassificationStamp>
           </div>
         )}

@@ -6,6 +6,7 @@ export const StatusBadge = ({ status }: { status: MissionStatus }) => {
     CLOSED: "border-ink text-ink bg-transparent",
     ACTIVE: "border-ink bg-ink text-manila",
     COMPROMISED: "border-stamp text-stamp",
+    DEFERRED: "border-defer text-defer bg-transparent",
   };
   return (
     <span

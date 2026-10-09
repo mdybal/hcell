@@ -3,7 +3,7 @@ import { cn } from "@/lib/utils";
 interface Props {
   children: React.ReactNode;
   className?: string;
-  variant?: "stamp" | "ink";
+  variant?: "stamp" | "ink" | "defer";
   size?: "sm" | "md" | "lg";
 }
 
@@ -21,7 +21,10 @@ export const ClassificationStamp = ({
   const colorClasses =
     variant === "stamp"
       ? "border-stamp text-stamp"
+      : variant === "defer"
+      ? "border-defer text-defer"
       : "border-ink text-ink";
+
 
   return (
     <span

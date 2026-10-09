@@ -17,6 +17,8 @@ All colors MUST be HSL.
     --stamp: 0 65% 38%;
     --stamp-fresh: 0 78% 35%;
     --redact: 0 0% 4%;
+    --defer: 30 100% 40%;  
+    --defer-soft: 45 100% 96%;
 
     --background: var(--desk);
     --foreground: var(--manila);

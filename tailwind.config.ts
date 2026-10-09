@@ -32,6 +32,10 @@ export default {
           DEFAULT: "hsl(var(--stamp))",
           fresh: "hsl(var(--stamp-fresh))",
         },
+        defer: {
+          DEFAULT: "hsl(var(--defer))",
+          soft: "hsl(var(--defer-soft))",
+        },
         redact: "hsl(var(--redact))",
         primary: {
           DEFAULT: "hsl(var(--primary))",
